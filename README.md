@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Keishizkz7&theme=dark_lover&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=Keishizkz7&theme=darkhub&column=8)
