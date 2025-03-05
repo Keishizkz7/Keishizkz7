@@ -15,11 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Keishizkz7&count_private=true&show_icons=ture&theme=react" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keishizkz7&layout=compact&count_private=true&show_icons=true&theme=react" />
 </p>
+
+## Programming Languages
+![](https://skillicons.dev/icons?i=html,css,js,nodejs,php)
+## Frameworks and Library
+![](https://skillicons.dev/icons?i=react,vite)
+## Design Tools
+![](https://skillicons.dev/icons?i=figma)
+## DB and Dev Tools
+![](https://skillicons.dev/icons?i=mongodb,docker,vscode,npm,webpack)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keishizkz7&theme=darkhub&column=8)
