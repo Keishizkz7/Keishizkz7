@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keishizkz7&layout=compact&count_private=true&show_icons=true&theme=react" />
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Keishizkz7&no-frame=true&theme=darkhub&column=8)
+
 ## Programming Languages
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs,php)
 ## Frameworks and Library
@@ -32,4 +34,4 @@ Here are some ideas to get you started:
 ![](https://skillicons.dev/icons?i=mongodb,docker,vscode,npm,webpack)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Keishizkz7&theme=darkhub&column=8)
+
