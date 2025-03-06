@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--https://github.com/ryo-ma/github-profile-trophy -->
 
 ## Skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,vite,figma,xd,ai,ps,apple,webpack,npm,mongodb,mysql,docker,vscode,github,notion,wordpress&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,vite,webpack,npm,mongodb,mysql,docker,figma,xd,ai,ps,apple,vscode,github,notion,wordpress&perline=12)](https://skillicons.dev)
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 
