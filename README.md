@@ -26,14 +26,8 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keishizkz7&no-frame=true&theme=darkhub&column=8)
 <!--https://github.com/ryo-ma/github-profile-trophy -->
 
-## Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,nodejs,php)
-## Frameworks and Library
-![](https://skillicons.dev/icons?i=react,vite)
-## Design Tools
-![](https://skillicons.dev/icons?i=figma)
-## DB and Dev Tools
-![](https://skillicons.dev/icons?i=mongodb,docker,vscode,npm,webpack)
+## Skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,vite,figma,xd,ai,ps,apple,webpack,npm,mongodb,mysql,docker,vscode,github,notion,wordpress&perline=12)](https://skillicons.dev)
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 
